@@ -1,5 +1,7 @@
 # 🤖 AI-Generated Image Detection Using Machine Learning
 
+![lv_0_20261016210625.jpg](https://github.com/user-attachments/assets/df2bc96f-a0f6-49b1-bb30-be9fc3806998)
+
 I developed a Machine Learning project to distinguish between real human faces and AI-generated faces.
 
 ## 🔹 Key Features:
