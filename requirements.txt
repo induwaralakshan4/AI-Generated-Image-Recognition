@@ -1,6 +1,7 @@
 streamlit
 numpy
+pandas
+scikit-learn
+joblib
 opencv-python-headless
 Pillow
-joblib
-scikit-learn==1.6.1
